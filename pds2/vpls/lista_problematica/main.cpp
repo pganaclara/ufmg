@@ -28,6 +28,7 @@ int main(){
   L->print();
   std::cout << L->_size << std::endl;
 
+  L->clearList();
   delete L;
 	return 0;
 }

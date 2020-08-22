@@ -20,7 +20,9 @@ void List::insert(int value){
 }
 
 void List::clearList() {
-	_head = NULL;
+	while (_size != 0){
+    removeFirst();
+  }
 }
 
 void List::print(){
@@ -44,6 +46,10 @@ int List::removeFirst(){
     Node* current = _head;
 	  _head = _head->_next;
     delete current;
+			if (_size == 0){
+				_head = nullptr;
+				_toe = nullptr;
+			}
 	  return current->_value;
   } else {
     return 1;
