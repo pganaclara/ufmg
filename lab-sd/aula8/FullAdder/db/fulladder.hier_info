@@ -1,0 +1,17 @@
+|fulladder
+Cin => s.OUTPUTSELECT
+Cin => Cout.OUTPUTSELECT
+x => s.OUTPUTSELECT
+x => Cout.OUTPUTSELECT
+x => s.OUTPUTSELECT
+x => Cout.OUTPUTSELECT
+y => s.DATAB
+y => Cout.DATAA
+y => s.DATAA
+y => Cout.DATAB
+y => s.DATAB
+y => s.DATAA
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+

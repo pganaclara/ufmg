@@ -1,0 +1,79 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1\aula4\simulation\modelsim
+Ecompare
+Z1 w1624389362
+Z2 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z3 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z4 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z5 dC:\altera\13.0sp1\aula4\simulation\modelsim
+Z6 8C:/altera/13.0sp1/aula4/compare.vhd
+Z7 FC:/altera/13.0sp1/aula4/compare.vhd
+l0
+L5
+Vf`H0bH:z<2aQ1fl?AXzg83
+Z8 OV;C;10.1d;51
+31
+Z9 !s108 1624562937.537000
+Z10 !s90 -reportprogress|300|-93|-work|work|C:/altera/13.0sp1/aula4/compare.vhd|
+Z11 !s107 C:/altera/13.0sp1/aula4/compare.vhd|
+Z12 o-93 -work work -O0
+Z13 tExplicit 1
+!s100 HHigbOH179ReAaM9>[F^H0
+!i10b 1
+Abehavioral
+R2
+R3
+R4
+DEx4 work 7 compare 0 22 f`H0bH:z<2aQ1fl?AXzg83
+l12
+L10
+V1KNLc=bFAP1J;O1f9@K242
+R8
+31
+R9
+R10
+R11
+R12
+R13
+!s100 CBB7lkVM][VS4QfOQVgD^3
+!i10b 1
+Etb_compare
+Z14 w1624389388
+R2
+R3
+R4
+R5
+Z15 8C:/altera/13.0sp1/aula4/tb_compare.vhd
+Z16 FC:/altera/13.0sp1/aula4/tb_compare.vhd
+l0
+L5
+VHSNaCk8@A;56LKWSEX5Mg3
+!s100 0h;3h?nh;>L<k>YnR7:082
+R8
+31
+!i10b 1
+Z17 !s108 1624562937.733000
+Z18 !s90 -reportprogress|300|-93|-work|work|C:/altera/13.0sp1/aula4/tb_compare.vhd|
+Z19 !s107 C:/altera/13.0sp1/aula4/tb_compare.vhd|
+R12
+R13
+Abehavior
+R2
+R3
+R4
+DEx4 work 10 tb_compare 0 22 HSNaCk8@A;56LKWSEX5Mg3
+l18
+L8
+VmSSPPUOo>mEfX^UgJ6XH21
+!s100 d8o?_lG^G9oPLi:IKKflR3
+R8
+31
+!i10b 1
+R17
+R18
+R19
+R12
+R13

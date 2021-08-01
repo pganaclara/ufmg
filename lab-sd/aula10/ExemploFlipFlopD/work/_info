@@ -1,0 +1,79 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1\aula10\ExemploFlipFlopD
+Effd
+Z1 w1627401132
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\altera\13.0sp1\aula10\ExemploFlipFlopD
+Z5 8FFD.vhd
+Z6 FFFD.vhd
+l0
+L4
+Vz^QXAEnndZm8dGJ72dTgT1
+Z7 OV;C;10.1d;51
+31
+Z8 !s108 1627491965.701000
+Z9 !s90 -reportprogress|300|-explicit|-93|FFD.vhd|
+Z10 !s107 FFD.vhd|
+Z11 o-explicit -93 -O0
+Z12 tExplicit 1
+!s100 lod44@O3:XT8j3S@hDcZS3
+!i10b 1
+Affpd
+R2
+R3
+DEx4 work 3 ffd 0 22 z^QXAEnndZm8dGJ72dTgT1
+l12
+L11
+VjA>^IX8?LQ0[DULLNPJgg0
+R7
+31
+R8
+R9
+R10
+R11
+R12
+!s100 fYI<?T5C8Vh[TNo[;V<PI0
+!i10b 1
+Etb_ffd
+R1
+Z13 DPx4 ieee 16 std_logic_textio 0 22 ?Il0a149GV276[?[UMDWh2
+Z14 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+R2
+R3
+R4
+Z15 8tb_FFD.vhd
+Z16 Ftb_FFD.vhd
+l0
+L9
+Vi`NZZ;?4A@dK<PEK7_[KH3
+!s100 RDPS_^`LkbQ^g0_[JZTD91
+R7
+31
+!i10b 1
+Z17 !s108 1627491965.809000
+Z18 !s90 -reportprogress|300|-explicit|-93|tb_FFD.vhd|
+Z19 !s107 tb_FFD.vhd|
+R11
+R12
+Abehavior
+R13
+R14
+R2
+R3
+DEx4 work 6 tb_ffd 0 22 i`NZZ;?4A@dK<PEK7_[KH3
+l45
+L12
+VMlaJ83?e1FQ0@jPK8O?j32
+!s100 @=lmHRHAdjfSJXPm57S3i3
+R7
+31
+!i10b 1
+R17
+R18
+R19
+R11
+R12

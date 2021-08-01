@@ -1,0 +1,20 @@
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+use IEEE.NUMERIC_STD.ALL;
+
+-- f(x)=r*x*not(x) sendo r=2
+
+entity Multiplier_VHDL is
+   port
+   (
+      x: in std_logic_vector(3 downto 0);
+      resultado: out std_logic_vector(7 downto 0)
+   );
+end entity Multiplier_VHDL;
+
+architecture Behavioral of Multiplier_VHDL is
+begin
+
+   Result <= std_logic_vector(unsigned(x) * unsigned(not(x));
+
+end architecture Behavioral;

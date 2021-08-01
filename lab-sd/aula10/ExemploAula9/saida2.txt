@@ -1,0 +1,4 @@
+00110100   100   nao coincide
+00110100   52   coincide
+00110100   28   nao coincide
+01001000   72   coincide

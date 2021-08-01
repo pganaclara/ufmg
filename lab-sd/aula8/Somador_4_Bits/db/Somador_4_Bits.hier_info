@@ -1,0 +1,85 @@
+|Somador_4_Bits
+x[0] => FullAdder:S0.x
+x[1] => FullAdder:S1.x
+x[2] => FullAdder:S2.x
+x[3] => FullAdder:S3.x
+y[0] => FullAdder:S0.y
+y[1] => FullAdder:S1.y
+y[2] => FullAdder:S2.y
+y[3] => FullAdder:S3.y
+Cin => FullAdder:S0.Cin
+s[0] <= FullAdder:S0.s
+s[1] <= FullAdder:S1.s
+s[2] <= FullAdder:S2.s
+s[3] <= FullAdder:S3.s
+Cout <= FullAdder:S3.Cout
+
+
+|Somador_4_Bits|fulladder:S0
+Cin => s.OUTPUTSELECT
+Cin => Cout.OUTPUTSELECT
+x => s.OUTPUTSELECT
+x => Cout.OUTPUTSELECT
+x => s.OUTPUTSELECT
+x => Cout.OUTPUTSELECT
+y => s.DATAB
+y => Cout.DATAA
+y => s.DATAA
+y => Cout.DATAB
+y => s.DATAB
+y => s.DATAA
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Somador_4_Bits|fulladder:S1
+Cin => s.OUTPUTSELECT
+Cin => Cout.OUTPUTSELECT
+x => s.OUTPUTSELECT
+x => Cout.OUTPUTSELECT
+x => s.OUTPUTSELECT
+x => Cout.OUTPUTSELECT
+y => s.DATAB
+y => Cout.DATAA
+y => s.DATAA
+y => Cout.DATAB
+y => s.DATAB
+y => s.DATAA
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Somador_4_Bits|fulladder:S2
+Cin => s.OUTPUTSELECT
+Cin => Cout.OUTPUTSELECT
+x => s.OUTPUTSELECT
+x => Cout.OUTPUTSELECT
+x => s.OUTPUTSELECT
+x => Cout.OUTPUTSELECT
+y => s.DATAB
+y => Cout.DATAA
+y => s.DATAA
+y => Cout.DATAB
+y => s.DATAB
+y => s.DATAA
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Somador_4_Bits|fulladder:S3
+Cin => s.OUTPUTSELECT
+Cin => Cout.OUTPUTSELECT
+x => s.OUTPUTSELECT
+x => Cout.OUTPUTSELECT
+x => s.OUTPUTSELECT
+x => Cout.OUTPUTSELECT
+y => s.DATAB
+y => Cout.DATAA
+y => s.DATAA
+y => Cout.DATAB
+y => s.DATAB
+y => s.DATAA
+s <= s.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
