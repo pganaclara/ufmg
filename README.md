@@ -26,11 +26,3 @@ Durante a disciplina de Lab de SD foram desenvolvidos trabalhos em trio e os có
     <td align="center"><a href="https://github.com/daniel-web15"><img style="border-radius: 50%;" src="https://github.com/daniel-web15.png" width="100px;" alt=""/><br /><sub><b>Daniel Almeida</b></sub></a><br />
   </tr>
 </table>
-
-## Arquitetura e Organizção de Computadores
-
-<table>
-  <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/caio-jardel-morbeck-aguiar-52581b199/?originalSubdomain=br"><img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQExupWJkihaTA/profile-displayphoto-shrink_200_200/0/1578094346911?e=1633564800&v=beta&t=6oHQqnHcZxhTnjZCmANb5Cc7x7AoJZwfNqDxyiJpRME" width="100px;" alt=""/><br /><sub><b>Antônio Britto</b></sub></a><br />
-  </tr>
-</table>
