@@ -5,10 +5,10 @@ Repositório para alguns trabalhos feito em diferentes disciplinas no meu percur
 
 ## Programação e Desenvolvimento de Software 2
 
-Durante a disciplina de PDS2 foram desenvolvidos alguns VPLs (Virtual Programming Labs) e os códigos que desenvolvi, em C++, a cada um está disponibilizado aqui.
+Durante a disciplina de PDS2 foram desenvolvidos alguns VPLs (Virtual Programming Labs) e os códigos que desenvolvi, em C++.
 
 ## Programação Orientada a Objetos
-Durante a disciplina de POO foram desenvolvidos trabalhos em trio e os códigos, em C++, foram disponibilizados aqui. 
+Durante a disciplina de POO foram desenvolvidos trabalhos em trio e os códigos, em C++. 
 
 <table>
   <tr>
@@ -18,7 +18,7 @@ Durante a disciplina de POO foram desenvolvidos trabalhos em trio e os códigos,
 </table>
 
 ## Laboratório de Sistemas Digitais
-Durante a disciplina de Lab de SD foram desenvolvidos trabalhos em trio e os códigos, em VHDL, foram disponibilizados aqui.
+Durante a disciplina de Lab de SD foram desenvolvidos trabalhos em trio e os códigos, em VHDL.
 
 <table>
   <tr>
@@ -26,3 +26,6 @@ Durante a disciplina de Lab de SD foram desenvolvidos trabalhos em trio e os có
     <td align="center"><a href="https://github.com/daniel-web15"><img style="border-radius: 50%;" src="https://github.com/daniel-web15.png" width="100px;" alt=""/><br /><sub><b>Daniel Almeida</b></sub></a><br />
   </tr>
 </table>
+
+## Oficina de Modelagem e Simulação
+Durante a disciplina foram realizados listas semanais em matlab.
