@@ -18,7 +18,7 @@ Durante a disciplina de POO foram desenvolvidos trabalhos em trio e os códigos,
 </table>
 
 ## Laboratório de Sistemas Digitais
-Durante a disciplina de Lab de SD foram desenvolvidos trabalhos em trio e os códigos, em VHDL.
+Durante a disciplina de Lab de SD foram desenvolvidos trabalhos em trio e os códigos, em VHDL. O trabalho final está disponibilizado <a href="https://github.com/pganaclara/tictactoe">aqui</a>.
 
 <table>
   <tr>
